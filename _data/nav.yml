@@ -1,6 +1,9 @@
 - name: "Contact"
   link: "contact"
 
+- name: "github"
+  link: "https://github.com/yule-li"
+
 - name: "Resume"
   link: "en_yule.pdf"
 
