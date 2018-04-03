@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="me.jpg">
 
 Hi! I am an algorithm engineer at Key Laboratory of Information Processing of Chinese Academy of Science.
 
