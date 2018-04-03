@@ -16,9 +16,9 @@ I am an algorithm engineer at Key Laboratory of Information Processing of Chines
 
 ## Publications
 1. Low-Latency Video Semantic Segmentation (Yule Li, Jianping Shi, Dahua Lin, accepted by CVPR
+2018 as spotlight),[pdf](https://arxiv.org/pdf/1804.00389)
 2. Localized Region Context and Object Feature Fusion for People Head Detection (Yule Li, Yong Dou,
 Xinwang Liu, Teng Li, published in ICIP 2016)
-2018 as spotlight),[pdf](https://arxiv.org/pdf/1804.00389)
 
 
 
