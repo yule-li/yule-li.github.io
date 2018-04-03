@@ -1,4 +1,11 @@
-theme: jekyll-theme-cayman
-#theme: jekyll-theme-architect
-#theme: jekyll-theme-merlot
-#theme: jekyll-theme-leap-day
+title: Researcher
+url: "https://ankitsultana.com"
+baseurl: "/researcher"
+
+markdown: kramdown
+
+tracking_id: #
+
+sass:
+    style: compressed
+    sass_dir: _sass
