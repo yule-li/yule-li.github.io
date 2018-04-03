@@ -19,6 +19,7 @@ I am an algorithm engineer at Key Laboratory of Information Processing of Chines
 Xinwang Liu, Teng Li, published in ICIP 2016)
 2. Low-Latency Video Semantic Segmentation (Yule Li, Jianping Shi, Dahua Lin, accepted by CVPR
 2018 as spotlight),[pdf](https://arxiv.org/pdf/1804.00389)
+
 ## Project
 
 
