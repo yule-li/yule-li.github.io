@@ -6,39 +6,19 @@ layout: default
 
 <img class="profile-picture" src="me.jpg">
 
-Hi! I am an algorithm engineer at Key Laboratory of Information Processing of Chinese Academy of Science.
+I am an algorithm engineer at Key Laboratory of Information Processing of Chinese Academy of Science. Before that, I recieved the B.S. degree and Master degree from BUAA and NUDT respectively. I aslo interned at the SenseTime leaded by [JianPing Shi]() and MMlab in CUHK leaded by [Dahua Lin]()
 
 
 ## Research Interest
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+- Face recognition
+- Video semantic segmentation
+- Object detection
 
 ## Publications
+1. Localized Region Context and Object Feature Fusion for People Head Detection (Yule Li, Yong Dou,
+Xinwang Liu, Teng Li, published in ICIP 2016)
+2. Low-Latency Video Semantic Segmentation (Yule Li, Jianping Shi, Dahua Lin, accepted by CVPR
+2018 as spotlight),[pdf](https://arxiv.org/pdf/1804.00389)
+## Project
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
