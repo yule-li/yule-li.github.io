@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="me.jpg">
 
-I am an algorithm engineer at Key Laboratory of Information Processing of Chinese Academy of Science leaded by [Shiguang Shan](http://www.jdl.ac.cn/user/sgshan/index_en.htm). Before that, I recieved the B.S. degree and Master degree from BUAA and NUDT respectively. I aslo interned at the SenseTime supervised by [JianPing Shi](http://shijianping.me/) and Multimedia Laboratory in CUHK supervised by [Dahua Lin](http://dahua.me/index.html)
+I am an algorithm engineer at Key Laboratory of Information Processing of Chinese Academy of Science leaded by [Shiguang Shan](http://www.jdl.ac.cn/user/sgshan/index_en.htm). Before that, I recieved the B.S. degree and Master degree from BUAA and NUDT respectively. I aslo interned at the SenseTime supervised by [JianPing Shi](http://shijianping.me/) and Multimedia Laboratory in CUHK supervised by [Dahua Lin](http://dahua.me/index.html).
 
 
 ## Research Interest
